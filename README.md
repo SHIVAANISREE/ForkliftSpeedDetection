@@ -66,6 +66,12 @@ The [OpenCV](https://opencv.org/) is the huge open-source library for the comput
     <li>The script uses the BytesIO and PIL libraries to convert the processed frames from OpenCV format to a format suitable for display in IPython.</li>
     <li>BytesIO is used to store the image data in memory, and PIL is used to convert and display the images.</li>
   </ul><br><br>
+
+
+  <p>The following image is the output of the Forklift Speed Limitation.</p>
+  <p align="center">
+    <img src="https://github.com/SHIVAANISREE/ForkliftSpeedDetection/assets/110712340/14c843df-6d2b-4314-9260-171a66ace3dc.jpg">
+  </p>
   <p>The project combines computer vision techniques, deep learning for object detection, and multi-threading to perform real-time vehicle tracking and speed estimation in a video feed. It leverages the capabilities of OpenCV, Dlib and MobileNet-SSD to achieve the accurate prediction.</p>
 </ul>
 
